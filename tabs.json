@@ -3,12 +3,12 @@
 	"tab": [
 		{
 			"title": {
-				"text": "Research"
+				"text": "Repair"
 			},
 			"open": true,
 			"content": {
-				"headline": "Research & Analytics",
-				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"headline": "Repair Services",
+				"text": "<h1>PC and Laptops</h1>",
 				"url": "#",
 				"destination": "Learn more",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
