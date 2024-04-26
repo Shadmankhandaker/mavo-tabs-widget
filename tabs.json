@@ -8,16 +8,7 @@
 			"open": true,
 			"content": {
 				"headline": "Repair Services",
-				"text": "PC and Laptops     Broken Screen Broken Keyboard
-    Broken Charging pin
-    RAM/Memory upgrade
-    Hard drive replacement and expansion
-    Motherboard replacement
-    Power supply replacement
-    Dual Monitors
-    Data recovery
-    Windows 10 and Windows 11 Repair/installation/Upgrade
-    Mac OS Repair/update",
+				"text": "PC and Laptops Broken Screen Broken Keyboard Broken Charging pin RAM/Memory upgrade Hard drive replacement and expansion Motherboard replacement Power supply replacement Dual Monitors Data recovery Windows 10 and Windows 11 Repair/installation/Upgrade Mac OS Repair/update",
 				"url": "#",
 				"destination": "Learn more",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
